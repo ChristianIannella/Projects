@@ -1,3 +1,12 @@
+/*
+  SparkFun_MMA8452Q
+  
+  29/01/2020
+  Iannella Christian 
+  This example code is in the public domain.
+*/
+
+
 #include <Wire.h>                 
 #include "SparkFun_MMA8452Q.h"   
 MMA8452Q accel;                 
